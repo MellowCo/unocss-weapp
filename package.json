@@ -48,8 +48,6 @@
     "@dcloudio/uni-mp-toutiao": "3.0.0-alpha-3061020221121002",
     "@dcloudio/uni-mp-weixin": "3.0.0-alpha-3061020221121002",
     "@dcloudio/uni-quickapp-webview": "3.0.0-alpha-3061020221121002",
-    "unocss": "^0.46.5",
-    "unocss-preset-weapp": "^0.2.2",
     "vue": "^3.2.41",
     "vue-i18n": "^9.1.9"
   },
@@ -60,6 +58,8 @@
     "@dcloudio/uni-stacktracey": "3.0.0-alpha-3061020221121002",
     "@dcloudio/vite-plugin-uni": "3.0.0-alpha-3061020221121002",
     "typescript": "^4.8.3",
+    "unocss": "^0.46.5",
+    "unocss-preset-weapp": "^0.2.2",
     "vite": "^3.1.8"
   }
 }
